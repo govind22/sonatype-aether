@@ -28,29 +28,6 @@
   </description>
   <url>http://sonatype.github.com/sonatype-aether/</url>
   <inceptionYear>2010</inceptionYear>
-
-  <mailingLists>
-    <mailingList>
-      <name>Aether Developers List</name>
-      <subscribe>aether-dev-subscribe@sonatype.org</subscribe>
-      <unsubscribe>aether-dev-unsubscribe@sonatype.org</unsubscribe>
-      <post>aether-dev@sonatype.org</post>
-      <!-- archive>?</archive -->
-    </mailingList>
-    <mailingList>
-      <name>Aether Users List</name>
-      <subscribe>aether-user-subscribe@sonatype.org</subscribe>
-      <unsubscribe>aether-user-unsubscribe@sonatype.org</unsubscribe>
-      <post>aether-user@sonatype.org</post>
-      <!-- archive>?</archive -->
-    </mailingList>
-    <mailingList>
-      <name>Aether Commits List</name>
-      <subscribe>aether-scm-subscribe@sonatype.org</subscribe>
-      <unsubscribe>aether-scm-unsubscribe@sonatype.org</unsubscribe>
-    </mailingList>
-  </mailingLists>
-
   <scm>
     <connection>scm:git:git@github.com:sonatype/sonatype-aether.git</connection>
     <developerConnection>scm:git:git@github.com:sonatype/sonatype-aether.git</developerConnection>
